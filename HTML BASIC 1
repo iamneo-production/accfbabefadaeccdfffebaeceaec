@@ -1,7 +1,8 @@
 <html>
-<head>
-<title>CPU</tilte>
-</head>
 <body>
 <h1>CPU</h1>
-<p><b>CPU</b>stands for <i>central processing unit</i><break></break>
+<p><u><b>CPU</b></u>stands for <i>central processing unit</i><break></break>
+It is the portion of a <u>computer</u>system that carries<break></break>
+out the instructions of a <u>computer</u>program<br>
+it carries out each instructions of the program in sequence,<br>
+to perform the basic arithmetical,logical,and input
